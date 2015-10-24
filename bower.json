@@ -1,0 +1,22 @@
+{
+  "name": "angular-tdd-demo",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Avraham Luna <avraham.luna@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/abluna/reflections",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.7"
+  }
+}
